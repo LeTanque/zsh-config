@@ -236,7 +236,7 @@ We're on the social media.
 * [@ohmyzsh](https://twitter.com/ohmyzsh) on Twitter. You should follow it.
 * [Oh My Zsh](https://www.facebook.com/Oh-My-Zsh-296616263819290/) on Facebook.
 
-## Merchandise
+## Merch
 
 We have [stickers, shirts, and coffee mugs available](https://shop.planetargon.com/collections/oh-my-zsh?utm_source=github) for you to show off your love of Oh My Zsh. Again, you will become the talk of the town!
 
